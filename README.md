@@ -103,14 +103,11 @@
         <div class="info-item">Réalisé par:</div>
         <div>Houria Merad</div>
         
-        <div class="info-item">Réalisé par:</div>
-        <div>Rachida Merad</div>
-        
         <div class="info-item">Niveau:</div>
         <div>2ème Année Électronique</div>
         
         <div class="info-item">Encadré par:</div>
-        <div>(Mourad hebali)</div>
+        <div>Mourad hebali</div>
         
         <div class="info-item">Année Universitaire:</div>
         <div>2026 - 2027</div>
