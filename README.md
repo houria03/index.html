@@ -102,7 +102,8 @@
         
         <div class="info-item">Réalisé par:</div>
         <div>Houria Merad</div>
-          <div class="info-item">Réalisé par:</div>
+        
+        <div class="info-item">Réalisé par:</div>
         <div>Rachida Merad</div>
         
         <div class="info-item">Niveau:</div>
