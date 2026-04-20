@@ -101,16 +101,19 @@
         <div>Conception et Réalisation d’un Système Intelligent de Détection d’Incidents Dangereux Monté sur un Drone</div>
         
         <div class="info-item">Réalisé par:</div>
-        <div>Houria Merad</div>
+           <div>Houria Merad</div>
+            
+        <div class="info-item">Réalisé par:</div>
+           <div>Rachida Merad</div>
         
         <div class="info-item">Niveau:</div>
-        <div>2ème Année Électronique</div>
+         <div>2ème Année Électronique</div>
         
         <div class="info-item">Encadré par:</div>
-        <div>Mourad hebali</div>
+          <div>Mourad hebali</div>
         
         <div class="info-item">Année Universitaire:</div>
-        <div>2026 - 2027</div>
+           <div>2026 - 2027</div>
     </div>
 
     <h2>Description du Projet (Résumé)</h2>
